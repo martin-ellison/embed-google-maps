@@ -2,6 +2,8 @@
 
 In today's digital age, adding interactive map functionality to your website has become essential for enhancing user experience. [Embed Google Maps](https://embed-maps.org) provides a simple yet powerful solution that allows you to seamlessly integrate professional maps into your website.
 
+![Google Maps Embed](https://github.com/martin-ellison/embed-google-maps/blob/main/embed-maps-screenshot.png)
+
 ## Why Choose Our [Google Maps Embed](https://embed-maps.org) Tool?
 
 Our tool offers several unique advantages:
